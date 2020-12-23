@@ -1,0 +1,1 @@
+use STM32F103ZET6
